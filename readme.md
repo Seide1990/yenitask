@@ -1,1 +1,1 @@
-# bu readme faylidir
+# ozumuz haqqinda melumat
